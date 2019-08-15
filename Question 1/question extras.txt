@@ -1,0 +1,24 @@
+q1a
+
+p1a = linspace(-10,10,200)
+plot(points, q1a(p1a))
+
+q1b
+
+p1b = linspace(-2,3,5000)
+plot(points, q1b(p1b))
+
+q1c
+
+p1c = linspace(0,0.6,1000)
+plot(points, q1c(p1c))
+
+q1d
+
+p1d = linspace(-pi,pi,2000)
+plot(points, q1d(p1d))
+
+q1e
+
+p1e = linspace(1.5,10,2500)
+plot(points, q1e(p1e))
